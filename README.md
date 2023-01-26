@@ -1,7 +1,7 @@
 # Web Starter
 A minimalist starter to help learn web development.
 
-See the blog post this is supported by [here](<LINK>)
+See the blog post this is supported by [here](https://blog.gait.dev/an-opinionated-guide-to-learning-web-development)
 
 
 ## Getting started
